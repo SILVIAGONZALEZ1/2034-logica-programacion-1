@@ -1,45 +1,46 @@
-# 🎮 Curso de Lógica de Programación
+# 🚀 Actividades Adicionales de Práctica de Lógica de Programación
 
-## 🚀 Introducción
-Bienvenidos a nuestro curso de lógica de programación. Para poder programar, necesitamos un lugar donde escribir el código. Los programadores utilizan herramientas y sistemas para escribir y ejecutar su código.
+## Desafíos finales:
 
-En este curso, vamos a utilizar **Visual Studio Code**, una de las herramientas más populares del mercado. Aquí encontrarás un artículo que describe otras herramientas disponibles y explica por qué preferimos Visual Studio Code para aprender JavaScript y lógica de programación.
+1. **Mensaje de bienvenida:**
+   - Crea un programa que utilice `console.log` para mostrar un mensaje de bienvenida.
 
-## 📝 Proyecto Inicial
-El proyecto inicial es muy simple y consta de tres archivos:
+2. **Mostrar nombre en consola:**
+   - Crea una variable llamada "nombre" y asígnale tu nombre. Luego, utiliza `console.log` para mostrar el mensaje "¡Hola, [tu nombre]!" en la consola del navegador.
 
-- **index.html**: Archivo HTML.
-- **style.css**: Archivo CSS para estilos.
-- **app.js**: Archivo JavaScript que por ahora está vacío.
+3. **Mostrar nombre en alerta:**
+   - Crea una variable llamada "nombre" y asígnale tu nombre. Luego, utiliza `alert` para mostrar el mensaje "¡Hola, [tu nombre]!".
 
-## 🎯 Descripción del Juego
-El objetivo del juego es adivinar un número. La dinámica es la siguiente:
+4. **Lenguaje de programación favorito:**
+   - Utiliza `prompt` y haz la siguiente pregunta: ¿Cuál es el lenguaje de programación que más te gusta?. Luego, almacena la respuesta en una variable y muestra la respuesta en la consola del navegador.
 
-1. Una persona piensa en un número del 1 al 10 y lo anota en un papel.
-2. La otra persona intenta adivinar el número mediante preguntas.
-3. Las respuestas son "mayor" o "menor" hasta que se acierta el número.
+5. **Suma de dos valores:**
+   - Crea una variable llamada "valor1" y otra llamada "valor2", asignándoles valores numéricos de tu elección. Luego, realiza la suma de estos dos valores y almacena el resultado en una tercera variable llamada "resultado". Utiliza `console.log` para mostrar el mensaje "La suma de [valor1] y [valor2] es igual a [resultado]." en la consola.
 
-En el contexto del juego, el número pensado por la primera persona es como una variable en la memoria del computador. El proceso de adivinar el número implica interacciones que se asemejan a enlaces o comunicaciones entre variables y funciones.
+6. **Resta de dos valores:**
+   - Crea una variable llamada "valor1" y otra llamada "valor2", asignándoles valores numéricos de tu elección. Luego, realiza la resta de estos dos valores y almacena el resultado en una tercera variable llamada "resultado". Utiliza `console.log` para mostrar el mensaje "La diferencia entre [valor1] y [valor2] es igual a [resultado]." en la consola.
 
-## 🖥️ Configuración del Ambiente
-Para preparar el ambiente de desarrollo, sigue estos pasos:
+7. **Mayor o menor de edad:**
+   - Pide al usuario que ingrese su edad con `prompt`. Con base en la edad ingresada, utiliza un `if` para verificar si la persona es mayor o menor de edad y muestra un mensaje apropiado en la consola.
 
-1. **Descargar Visual Studio Code**: Sigue al siguiente enlace (https://code.visualstudio.com/download) que explica cómo hacerlo para Windows o macOS.
-2. **Importar el Proyecto Inicial**: Descarga la carpeta del proyecto inicial desde aqui (https://github.com/SILVIAGONZALEZ1/2034-logica-programacion-1)
+8. **Número positivo, negativo o cero:**
+   - Crea una variable "numero" y solicita un valor con `prompt`. Luego, verifica si es positivo, negativo o cero utilizando un `if-else` y muestra el mensaje correspondiente.
 
-## 📂 Estructura del Proyecto
-La estructura del proyecto inicial incluye los siguientes archivos:
+9. **Mostrar números del 1 al 10:**
+   - Utiliza un bucle `while` para mostrar los números del 1 al 10 en la consola.
 
-- `index.html`: Página principal del juego.
-- `style.css`: Estilos de la página.
-- `app.js`: Archivo JavaScript donde implementaremos la lógica del juego.
+10. **Verificación de nota:**
+    - Crea una variable "nota" y asígnale un valor numérico. Utiliza un `if-else` para determinar si la nota es mayor o igual a 7 y muestra "Aprobado" o "Reprobado" en la consola.
 
-No te preocupes si al principio no entiendes todo el código.
+11. **Número aleatorio:**
+    - Utiliza `Math.random` para generar cualquier número aleatorio y muestra ese número en la consola.
 
-## 📢 Contribuir
-Si deseas contribuir a este proyecto, por favor, abre un *pull request* y describe claramente los cambios que estás proponiendo.
+12. **Número entero entre 1 y 10:**
+    - Utiliza `Math.random` para generar un número entero entre 1 y 10 y muestra ese número en la consola.
 
-## 🚀 Autores
-Desarrollado por Gonzalez Silvia.
+13. **Número entero entre 1 y 1000:**
+    - Utiliza `Math.random` para generar un número entero entre 1 y 1000 y muestra ese número en la consola.
+
+![Captura de pantalla de Consola de Desarrollador](image.png)
 
 Siéntete libre de ajustar los detalles según tu implementación y preferencias específicas.
