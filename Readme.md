@@ -41,6 +41,6 @@
 13. **Número entero entre 1 y 1000:**
     - Utiliza `Math.random` para generar un número entero entre 1 y 1000 y muestra ese número en la consola.
 
-![Captura de pantalla de Consola de Desarrollador](image.png)
+![Captura de Pantalla de Consola](https://github.com/SILVIAGONZALEZ1/2034-logica-programacion-1/assets/105380047/b9632dbe-e9c1-4e75-aa93-ad90cc53cf95)
 
 Siéntete libre de ajustar los detalles según tu implementación y preferencias específicas.
